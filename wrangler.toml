@@ -9,7 +9,7 @@ kv_namespaces = [
 
 [env.dev]
 kv_namespaces = [
-    { binding = "KV_BINDING", id = "name = "serverless-qrcode-hub"
+    { binding = "KV_BINDING", id = "name = "serverless-qrcode-hub" },
 main = "index.js"
 compatibility_date = "2025-03-15"
 
